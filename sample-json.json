@@ -1,0 +1,156 @@
+[
+    {
+        "location": "LOC_NAME",
+        "baranggay": "BARANGAY",
+        "locality": "LOCALITY\n(when filtering, use NORMALIZED_LOC)",
+        "province": "PROVID",
+        "region": "REGION",
+        "loc_id": "LOCID",
+        "normalized_loc": "NORMALIZED_LOC",
+        "normalized_prov": "NORMALIZED_PROV",
+        "site_type": "SITE TYPE"
+    },
+    {
+        "location": "University of Abra-Bangued",
+        "baranggay": "",
+        "locality": "Bangued",
+        "province": 71,
+        "region": "CAR",
+        "loc_id": "L3-1461",
+        "normalized_loc": "Bangued",
+        "normalized_prov": "Abra",
+        "site_type": "HEI-SUC"
+    },
+    {
+        "location": "Davao Botanical Garden ",
+        "baranggay": "10A",
+        "locality": "Davao City",
+        "province": 60,
+        "region": "XI",
+        "loc_id": "L3-1327",
+        "normalized_loc": "Davao City",
+        "normalized_prov": "Davao Del Sur",
+        "site_type": "PLZ"
+    },
+    {
+        "location": "Garcia Heights Health Center",
+        "baranggay": "19-B",
+        "locality": "Davao City",
+        "province": 60,
+        "region": "XI",
+        "loc_id": "L3-1327",
+        "normalized_loc": "Davao City",
+        "normalized_prov": "Davao Del Sur",
+        "site_type": "RHU"
+    },
+    {
+        "location": "50th District (Pob.) Barangay Hall",
+        "baranggay": "50th District (Pob.)",
+        "locality": "City of Ozamiz",
+        "province": 55,
+        "region": "X",
+        "loc_id": "L3-1259",
+        "normalized_loc": "Ozamis City",
+        "normalized_prov": "Misamis Occidental",
+        "site_type": "LGU-BRGY HALL"
+    },
+    {
+        "location": "Plaza Soledad(Cavite City)",
+        "baranggay": "62A",
+        "locality": "Cavite City",
+        "province": 18,
+        "region": "IV-A",
+        "loc_id": "L3-0419",
+        "normalized_loc": "Cavite City",
+        "normalized_prov": "Cavite",
+        "site_type": "PLZ"
+    },
+    {
+        "location": "A-et Barangay Hall",
+        "baranggay": "A-et",
+        "locality": "Sulat",
+        "province": 43,
+        "region": "VIII",
+        "loc_id": "L3-1082",
+        "normalized_loc": "Sulat",
+        "normalized_prov": "Eastern Samar",
+        "site_type": "LGU-BRGY HALL"
+    },
+    {
+        "location": "A. Beltran Barangay Hall",
+        "baranggay": "A. Beltran",
+        "locality": "Jabonga",
+        "province": 66,
+        "region": "XIII",
+        "loc_id": "L3-1225",
+        "normalized_loc": "Jabonga",
+        "normalized_prov": "Agusan Del Norte",
+        "site_type": "LGU-BRGY HALL"
+    },
+    {
+        "location": "A. BELTRAN (CAMALIG) BARANGAY HEALTH STATION",
+        "baranggay": "A. BELTRAN (CAMALIG)",
+        "locality": "JABONGA",
+        "province": 66,
+        "region": "XIII",
+        "loc_id": "L3-1225",
+        "normalized_loc": "Jabonga",
+        "normalized_prov": "Agusan Del Norte",
+        "site_type": "RHU"
+    },
+    {
+        "location": "A. Bonifacio Barangay Hall",
+        "baranggay": "A. Bonifacio",
+        "locality": "Mayorga",
+        "province": 44,
+        "region": "VIII",
+        "loc_id": "L3-1103",
+        "normalized_loc": "Mayorga",
+        "normalized_prov": "Leyte",
+        "site_type": "LGU-BRGY HALL"
+    },
+    {
+        "location": "A. BONIFACIO BARANGAY HEALTH STATION",
+        "baranggay": "A. BONIFACIO",
+        "locality": "MAYORGA",
+        "province": 44,
+        "region": "VIII",
+        "loc_id": "L3-1103",
+        "normalized_loc": "Mayorga",
+        "normalized_prov": "Leyte",
+        "site_type": "RHU"
+    },
+    {
+        "location": "A. Bonifacio Barangay Hall",
+        "baranggay": "A. Bonifacio",
+        "locality": "Llanera",
+        "province": 13,
+        "region": "III",
+        "loc_id": "L3-0336",
+        "normalized_loc": "Llanera",
+        "normalized_prov": "Nueva Ecija",
+        "site_type": "LGU-BRGY HALL"
+    },
+    {
+        "location": "ANDRES BONIFACIO BARANGAY HEALTH STATION",
+        "baranggay": "A. BONIFACIO",
+        "locality": "LLANERA",
+        "province": 13,
+        "region": "III",
+        "loc_id": "L3-0336",
+        "normalized_loc": "Llanera",
+        "normalized_prov": "Nueva Ecija",
+        "site_type": "RHU"
+    },
+    {
+        "location": "ANDRES BONIFACIO SUR BARANGAY HEALTH STATION",
+        "baranggay": "A. BONIFACIO",
+        "locality": "LLANERA",
+        "province": 13,
+        "region": "III",
+        "loc_id": "L3-0336",
+        "normalized_loc": "Llanera",
+        "normalized_prov": "Nueva Ecija",
+        "site_type": "RHU"
+    }
+]
